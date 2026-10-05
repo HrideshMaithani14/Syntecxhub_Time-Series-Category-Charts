@@ -1,0 +1,38 @@
+================================================================================
+EXECUTIVE SALES & REVENUE PERFORMANCE SUMMARY REPORT
+Project: Time Series & Category Charts
+Date Range Analyzed: 2024-01-01 to 2025-12-31
+================================================================================
+
+1. KEY PERFORMANCE INDICATORS (KPIs):
+- Total Gross Revenue:        $9,215,060.24
+- Total Orders Processed:     95,538 units
+- Average Order Value (AOV):  $96.45
+- Top Category by Revenue:    Electronics ($3,163,766.83 / 34.3%)
+
+2. CATEGORY BREAKDOWN:
+       Category Total_Revenue  Order_Count Avg_Order_Value Revenue_Share_Pct
+    Electronics $3,163,766.83        12676         $249.59             34.3%
+        Apparel $1,725,605.07        26575          $64.93             18.7%
+      Furniture $1,532,600.63         8548         $179.29             16.6%
+Home Appliances $1,504,028.21        10739         $140.05             16.3%
+Office Supplies $1,289,059.50        37000          $34.84             14.0%
+
+3. QUARTERLY RUN-RATE:
+Quarter Total_Revenue Total_Orders
+ 2024Q1   $848,311.22        8,682
+ 2024Q2   $959,612.37        9,756
+ 2024Q3   $995,169.39       10,462
+ 2024Q4 $1,300,378.82       13,294
+ 2025Q1 $1,084,756.55       11,190
+ 2025Q2 $1,188,158.69       12,520
+ 2025Q3 $1,263,929.52       13,061
+ 2025Q4 $1,574,743.68       16,573
+
+4. EXPORTED HIGH-RESOLUTION CHARTS (PNG):
+- 01_sales_over_time_daily.png
+- 02_monthly_sales_aggregation.png
+- 03_quarterly_sales_aggregation.png
+- 04_category_comparison_bar_charts.png
+- 05_category_revenue_share_pie_donut.png
+================================================================================
